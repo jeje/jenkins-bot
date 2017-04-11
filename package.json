@@ -1,0 +1,13 @@
+{
+  "name": "jenkins-bot",
+  "version": "0.0.1",
+  "private": true,
+  "description": "An agent to interact with Jenkins.",
+  "main": "index.js",
+  "repository": "",
+  "author": "Jérôme Bernard",
+  "dependencies": {
+    "jenkins": "^0.20.0",
+    "moment": "^2.18.1"
+  }
+}
