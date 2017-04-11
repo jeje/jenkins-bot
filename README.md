@@ -7,7 +7,7 @@ Bot intelligent permettant de discuter avec Jenkins via Slack.
 
 Ce bot s'appuie sur [API.ai](https://api.ai).
 
-Un export du projet est disponible dans le fichier api-ai-jenkins-bot2.zip.
+Un export du projet est disponible dans le fichier api-ai-jenkins-bot.zip.
 
 Il faut créer un nouvel agent dans API.ai et importer la configuration depuis
 le ZIP mentionné.
