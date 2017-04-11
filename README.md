@@ -1,6 +1,10 @@
 # jenkins-bot
 Bot intelligent permettant de discuter avec Jenkins via Slack.
 
+Exemple de chat possible avec le bot :
+
+![Chat avec le bot](screenshot-jenkins-bot.png)
+
 # Utilisation
 
 ## API.ai
